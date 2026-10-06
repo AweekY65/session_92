@@ -1,0 +1,11 @@
+{
+  "name": "local-template-engine",
+  "version": "1.0.0",
+  "description": "A fully local text template engine: variables, conditionals, loops, partials, HTML escaping. No remote services, zero dependencies.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
